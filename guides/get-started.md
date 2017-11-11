@@ -64,7 +64,7 @@ Include this snippet in the `<head>` of your page, and update the configuration 
 </script>
 ```
 
-You can also import Simpla as an ES6/UMD module, and set additional options in `init`. Read more about [Simpla.js](/simpla-js)
+You can also import Simpla as an ES6/UMD module, and set additional options in `init`. Read more about [Simpla.js](/guides/simpla-js)
 
 > **Pro tip:** If you’re storing your content alongside the rest of your site, set `source` to `window.location.origin` so you can read content from `localhost` in development
 
