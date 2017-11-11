@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="121px" viewBox="0 0 320 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Wordmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="81.4533347%" y1="-17.9399938%" x2="24.3978138%" y2="56.1188182%" id="linearGradient-1">
+            <stop stop-color="#1BD4DC" offset="0%"></stop>
+            <stop stop-color="#42D6DA" offset="46.47%"></stop>
+            <stop stop-color="#3AD0D4" offset="68.15%"></stop>
+            <stop stop-color="#2EC5CA" offset="84.63%"></stop>
+            <stop stop-color="#1BB6BB" offset="98.49%"></stop>
+            <stop stop-color="#19B4B9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.144384519%" y1="92.8116458%" x2="80.0513873%" y2="44.4485387%" id="linearGradient-2">
+            <stop stop-color="#1BD4DC" offset="0%"></stop>
+            <stop stop-color="#42D6DA" offset="46.47%"></stop>
+            <stop stop-color="#3AD0D4" offset="68.15%"></stop>
+            <stop stop-color="#2EC5CA" offset="84.63%"></stop>
+            <stop stop-color="#1BB6BB" offset="98.49%"></stop>
+            <stop stop-color="#19B4B9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wordmark-Horizontal-Copy" transform="translate(-13.000000, -9.000000)">
+            <text id="simpla" font-family="GTWalsheimRegular, GT Walsheim" font-size="83.8547426" font-weight="normal" fill="#1BD4DC">
+                <tspan x="70.8825041" y="88.0838354">simpla</tspan>
+            </text>
+            <g id="Shape-Copy-3-+-Shape-Copy-+-Shape-Copy-2-Copy-Copy-Copy" transform="translate(22.376719, 40.506646)">
+                <path d="M25.0825831,19.7818093 L35.1408871,3.51163149 C36.5997645,1.58030799 35.5898576,0 32.8960347,0 C32.8960347,0 10.1472127,0.0018455074 10.1451836,0.00442921777 C10.1433391,0.00664382665 25.0825831,19.7818093 25.0825831,19.7818093 L25.0825831,19.7818093 Z" id="Shape-Copy-3" fill="url(#linearGradient-1)"></path>
+                <path d="M1.95967887,53.1819868 C0.500617007,55.1134949 1.51070838,56.6934338 4.20453133,56.6934338 C4.20453133,56.6934338 26.9537222,56.6910346 26.9559357,56.6880818 C26.9581492,56.685129 12.0192741,36.910148 12.0192741,36.910148 L1.95967887,53.1819868 Z" id="Shape-Copy" fill="url(#linearGradient-2)"></path>
+                <path d="M1.38311056,23.0474346 L26.8999075,56.8353533 L35.9863029,42.1369941 C37.4512675,39.7671781 37.2762169,36.0095404 35.5974657,33.7864422 L10.0797464,0 L0.993166589,14.6961445 C-0.471060098,17.0661452 -0.29564065,20.8243364 1.38311056,23.0474346 Z" id="Shape-Copy-2" fill="#86ECEF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

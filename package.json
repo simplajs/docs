@@ -1,0 +1,38 @@
+{
+  "name": "simpla-docs",
+  "version": "0.0.0",
+  "description": "Simpla documentation",
+  "main": "",
+  "author": {
+    "name": "Simpla contributors",
+    "url": "https://www.simpla.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "simpla",
+    "documentation",
+    "content-management"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplaio/docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simplaio/docs/issues"
+  },
+  "homepage": "https://docs.simpla.io",
+  "scripts": {
+    "build": "gitbook build && gitbook pdf . ./_book/simpla.pdf",
+    "setup": "npm i svgexport -g",
+    "serve": "gitbook serve --port 3000"
+  },
+  "dependencies": {
+    "gitbook-plugin-edit-link": "^2.0.2",
+    "gitbook-plugin-feathers-collapsible-menu": "^2.1.0",
+    "gitbook-plugin-heading-anchors": "^1.0.3",
+    "gitbook-plugin-toggle-chapters": "0.0.3"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

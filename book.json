@@ -1,0 +1,20 @@
+{
+  "title": "Simpla",
+  "description": "Documentation for Simpla, the modular content management framework for frontend developers",
+  "author": "Simpla Contributors",
+  "plugins": [
+    "edit-link",
+    "feathers-collapsible-menu",
+    "heading-anchors"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "placement": "left",
+      "base": "https://github.com/simplaio/docs/edit/master",
+      "label": "Edit This Page"
+    }
+  },
+  "styles": {
+    "website": "assets/css/website.css"
+  }
+}

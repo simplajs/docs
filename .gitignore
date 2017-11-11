@@ -1,0 +1,7 @@
+# Deps
+node_modules
+
+# Runtime
+_book
+*.log
+.DS_Store
