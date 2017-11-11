@@ -22,8 +22,7 @@
   },
   "homepage": "https://docs.simpla.io",
   "scripts": {
-    "build": "gitbook build && gitbook pdf . ./_book/simpla.pdf",
-    "setup": "npm i svgexport -g",
+    "build": "gitbook build",
     "serve": "gitbook serve --port 3000"
   },
   "dependencies": {

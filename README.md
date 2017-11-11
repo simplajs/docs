@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/assets/img/logo.svg" style="max-width: 90%; width: 400px; margin-right: 10px;">
+  <a href="https://www.simpla.io">
+    <img src="/assets/img/logo.svg" style="max-width: 90%; width: 400px; margin-right: 10px;">
+  </a>
 </p>
 
-Simpla is a new way to build dynamic content on the web. Built on Web Components, Simpla is an open ecosystem of modules that allow you to create editable content in HTML, edit it inline, and use Github as a backend.
-
-This documentation is also available as a [PDF](/simpla.pdf).
+Simpla is an open, modular content framework for frontend developers. Build dynamic content in HTML, edit it inline, and use Github as a backend.
 
 [**Guides**](./guides)<br>
 Get familiar with Simpla and learn everything from setting up your first project to advanced topics
