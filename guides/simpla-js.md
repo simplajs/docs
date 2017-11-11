@@ -28,7 +28,7 @@ The `simpla` package includes the core Simpla library (`simpla.min.js`) as well 
 
 ## Initializing
 
-Before you can use Simpla you must initialize your project with `Simpla.init(config)`. Read the [getting started](/docs/guides/get-started) guide for more information on how to setup the supporting services (Github, auth adapter) Simpla requires.
+Before you can use Simpla you must initialize your project with `Simpla.init(config)`. Read the [getting started](/guides/get-started) guide for more information on how to setup the supporting services (Github, auth adapter) Simpla requires.
 
 ```js
 Simpla.init({

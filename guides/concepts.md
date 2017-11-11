@@ -5,7 +5,7 @@ This guide covers some of the fundamental concepts underlying Simpla, and usage 
 
 ### Simpla.js
 
-Simpla’s core [JavaScript library](/docs/guides/simpla-js) provides a low-level API used by elements and developers to save content, manage state, coordinate changes, authenticate users, and react to content updates. It’s a tiny (~5kb) core for an expansive ecosystem.
+Simpla’s core [JavaScript library](/guides/simpla-js) provides a low-level API used by elements and developers to save content, manage state, coordinate changes, authenticate users, and react to content updates. It’s a tiny (~5kb) core for an expansive ecosystem.
 
 ### Elements
 
@@ -20,7 +20,7 @@ For example, [`<simpla-text>`](https://www.webcomponents.org/element/SimplaEleme
 
 > <simpla-text editable=""></simpla-text>
 
-Explore Simpla’s components in the [element catalogue](/elements).
+[Explore Simpla’s components](https://www.webcomponents.org/collection/simplaio/simpla-elements).
 
 ### Github backend
 
@@ -51,9 +51,9 @@ Simpla.editable(true)
 
 ## Adding elements
 
-Find elements in the [element catalogue](/elements). Every element has its own documentation, demos, and API references.
+Find elements on [webcomponents.org](https://www.webcomponents.org/collection/simplaio/simpla-elements). Every component has its own documentation, demos, and API references.
 
-Install elements via [Bower](http://bower.io/) (NPM support upcoming)
+Install them via [Bower](http://bower.io/) (NPM support upcoming)
 
 ```sh
 bower i [element] --save

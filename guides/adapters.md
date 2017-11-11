@@ -8,7 +8,7 @@ All official adapters are bundled with the `simpla` package on NPM and Unpkg, un
 
 The `SimplaNetlify` adapter uses [Netlify](https://www.netlify.com)’s OAuth services to authenticate collaborators on your Github repo with Simpla. It’s located under `/adapters/netlify.js`.
 
-You will need to have an OAuth application for Simpla registered on your Github account (see [getting started](/docs/guides/get-started)). Set the **Authorization callback URL** for your OAuth app to `https://api.netlify.com/auth/done`, and take note of the **Client ID** and **Client Secret**.
+You will need to have an OAuth application for Simpla registered on your Github account (see [getting started](/guides/get-started)). Set the **Authorization callback URL** for your OAuth app to `https://api.netlify.com/auth/done`, and take note of the **Client ID** and **Client Secret**.
 
 To setup Netlify:
 
