@@ -48,7 +48,7 @@ blockquote {
 }
 
 .book-summary ul.summary li.divider {
-  display: none;
+  display: none !important;
 }
 
 .book-summary ul.summary li:not(.active) > a {
