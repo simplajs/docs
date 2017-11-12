@@ -18,8 +18,6 @@ For example, [`<simpla-text>`](https://www.webcomponents.org/element/SimplaEleme
 <simpla-text path="/text"></simpla-text>
 ```
 
-> <simpla-text editable=""></simpla-text>
-
 [Explore Simpla’s components](https://www.webcomponents.org/collection/simplaio/simpla-elements).
 
 ### Github backend
