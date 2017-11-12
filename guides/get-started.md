@@ -1,6 +1,6 @@
 # Get started
 
-Simpla is an open, modular content framework for frontend developers. It’s built on Web Components and uses Github as a backend.
+This guide will walk you through creating your first project with Simpla, using Github as a backend and [Netlify](https://netlify.com) for authentication.
 
 ## Create Github repo
 
