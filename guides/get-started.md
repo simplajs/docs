@@ -1,6 +1,6 @@
 # Get started
 
-This guide will walk you through creating your first project with Simpla, using Github as a backend and [Netlify](https://netlify.com) for authentication.
+Let's create your first project with Simpla! We'll use Github as a backend and [Netlify](https://netlify.com) for authentication.
 
 ## Create Github repo
 
