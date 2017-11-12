@@ -15,6 +15,5 @@
   * [Adapters](references/adapters.md)
 * [Contributing](contributing/README.md)
   * [To Simpla](contributing/simpla.md)
-  * [To the ecosystem](contributing/ecosystem.md)
   * [To these docs](contributing/docs.md)
 * [License](license.md)
