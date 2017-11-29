@@ -153,10 +153,20 @@ td code {
   color: #767d85;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal a:not(.anchorjs-link):not(.simpla-button) {
+  color: inherit;
+  border-bottom: 1px solid currentColor;
+}
+
 .book .book-summary nav ul.summary li.active > a,
-.book .book-body .page-wrapper .page-inner section.normal a.anchorjs-link,
-.book .book-body .page-wrapper .page-inner section.normal a {
-  color: #1bd4dc;
+.book .book-body .page-wrapper .page-inner section.normal h2 > a,
+.book .book-body .page-wrapper .page-inner section.normal h3 > a {
+  color: #1bd4dc !important;
+  border-bottom: none !important;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a.anchorjs-link {
+  color: #b2bcc8 !important;
 }
 
 .book .book-summary nav ul.summary li.active > a {
