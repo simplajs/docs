@@ -1,6 +1,6 @@
-[![Simpla logo](/assets/img/logo.svg)](https://www.simpla.io)
+![Simpla logo](/assets/img/logo.svg)
 
-Simpla is an open, modular content framework for frontend developers. Build dynamic content in HTML, edit it inline, and use Github as a backend.
+[Simpla](https://www.simpla.io) is an open, modular content framework for frontend developers. Build dynamic content in HTML, edit it inline, and use Github as a backend.
 
 ### [Guides](./guides)
 
