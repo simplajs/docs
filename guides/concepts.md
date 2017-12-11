@@ -5,7 +5,7 @@ This guide covers some of the fundamental concepts underlying Simpla, and usage 
 
 ### Simpla.js
 
-Simpla’s core [JavaScript library](/guides/simpla-js) provides a low-level API used by elements and developers to save content, manage state, coordinate changes, authenticate users, and react to content updates. It’s a tiny (~5kb) core for an expansive ecosystem.
+Simpla itself is a tiny (~4kb) JavaScript library tat provides [a low-level API](/guides/simpla-js.html) for components and deveopers to set, get, and manipulate JSON data based on a standard [content model](/guides/content-model.html). It also provides the tools to manage state, coordinate changes, react to updates, and authenticate users.
 
 ### Elements
 
