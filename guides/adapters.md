@@ -16,27 +16,23 @@ To setup Netlify:
 2.  Under **Authentication Providers**, click **Install Provider**
 3.  Select **GitHub** and enter the **Client ID** and **Client Secret**, then save
 
-Include the adapter on your page and instantiate it with your Netlify site name on the `auth` property in `Simpla.init`
-
-```html
-<!-- Include adapter -->
-<script src="/node_modules/simpla/adapters/netlify.js"></script>
-
-<!-- Instantiate in Simpla.init -->
-<script>
-  Simpla.init({
-    auth: new SimplaNetlify({
-      site: 'mysite'
-    }),
-    ...
-  });
-</script>
-```
-
-You can also import the adapter as an ES6 module
+Import the adapter and instantiate it with your Netlify site name on the `auth` property in `Simpla.init`
 
 ```js
 import SimplaNetlify from 'simpla/adapters/netlify';
+
+Simpla.init({
+  auth: new SimplaNetlify({
+    site: 'mysite'
+  }),
+  ...
+});
+```
+
+You can also include the adapter as a UMD module in a `<script>` tag, exposed as `window.SimplaNetlify`
+
+```html
+<script src="/node_modules/simpla/adapters/netlify.js"></script>
 ```
 
 > **Pro tip:** Linking your Github repo to Netlify automatically pushes all your content to a high-performance CDN, set `source` in `Simpla.init` to your Netlify site URL (eg: `https://[site].netlify.com`) for instant super performance
