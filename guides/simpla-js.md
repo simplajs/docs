@@ -1,6 +1,6 @@
 # Simpla.js
 
-Simpla.js provides the tools for elements and developers to store and fetch data from Github, manage the state of a Simpla app, authenticate users, and react to changes in content.
+Simpla itself is a tiny (~4kb) JavaScript library that provides a low-level API for components and deveopers to set, get, and manipulate JSON data based on a standard [content model](/guides/content-model.html). It also provides several [adapters](/guides/adapters.html) for content storage (eg: Github) and authentication (eg: Netlify), as well as a standard interface for developers to create their own custom adapters.
 
 ## Installation
 
