@@ -97,6 +97,18 @@ Then use them wherever you want editable content. Give each element a unique `pa
 
 > Each elements has its own documentation, find elements in the [element catalogue](https://www.webcomponents.org/collection/simplaio/simpla-elements)
 
+## Enable CORS
+
+If you are serving your content and your site from different domains (eg: if you have a repository _just_ for Simpla content) then you will also need to enable CORS (Cross Origin Resource Sharing) on your content repo. If your content and Simpla are in the same repo or served from the same domain, you can skip this step.
+
+The easiest way to enable CORS on your content is to serve it through Netlify (since we're already using that for authentication) using their [headers configuration](https://www.netlify.com/docs/headers-and-basic-auth/). Just upload a file called `_headers` to the root of your repo, with the following contents:
+
+```
+## Allow access from other domains
+/*
+	Access-Control-Allow-Origin: *
+```
+
 ## Publish and save
 
 Make sure you have the included `simpla-admin` element, then upload your site to a static server (eg: Netlify, GitHub Pages) or run one locally.
