@@ -20,4 +20,4 @@ The root [`README.md`](https://github.com/simplaio/docs/blob/master/README.md) i
 
 ## Share
 
-We're always iterating on our documentatin to make sure it's the best it can be, and we're always appreciative of any help we can get. Please let the world know you've contributed, or give [@simplaio](https://twitter.com/simplaio) a shout out on Twitter, and join us in Simpla's [public Slack](https://slack.simpla.io) to chat with other contributors.
+We're always iterating on our documentatin to make sure it's the best it can be, and we're always appreciative of any help we can get. Please let the world know you've contributed, or give [@simplaio](https://twitter.com/simplaio) a shout out on Twitter.
