@@ -38,7 +38,7 @@ The HTML imports for Simpla’s elements also add requests, so if your codebase 
 
 Many CDNs and static file hosts come with HTTP/2 enabled out of the box. These are some of our favourites:
 
-*   [Netlify](https://netlify.com) is a static-site host with an exceptional HTTP/2-enabled CDN baked in. They have a generous free plan that suits most projects. [simpla.io](http://simpla.io) itself is hosted on Netlify
+*   [Netlify](https://netlify.com) is a static-site host with an exceptional HTTP/2-enabled CDN baked in. They have a generous free plan that suits most projects. [simplajs.org](http://simplajs.org) itself is hosted on Netlify
 *   [Cloudflare](https://cloudflare.com) is a popular DNS and CDN provider, who also have HTTP/2 enabled by default
 *   [Google Cloud](https://cloud.google.com)’s compute and app engine support HTTP/2, if your app needs more complex server-side logic
 *   Most HTTP servers (Express, Nginx, etc) can support HTTP/2 out of the box

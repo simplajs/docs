@@ -95,7 +95,7 @@ Then use them wherever you want editable content. Give each element a unique `pa
 <img is="simpla-img" path="/section/img">
 ```
 
-> Each elements has its own documentation, find elements in the [element catalogue](https://www.webcomponents.org/collection/simplaio/simpla-elements)
+> Each elements has its own documentation, find elements in the [element catalogue](https://www.webcomponents.org/collection/simplajs/simpla-elements)
 
 ## Enable CORS
 

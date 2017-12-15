@@ -18,7 +18,7 @@ For example, [`<simpla-text>`](https://www.webcomponents.org/element/SimplaEleme
 <simpla-text path="/text"></simpla-text>
 ```
 
-[Explore Simpla’s components](https://www.webcomponents.org/collection/simplaio/simpla-elements).
+[Explore Simpla’s components](https://www.webcomponents.org/collection/simplajs/simpla-elements).
 
 ### Github backend
 
@@ -49,7 +49,7 @@ Simpla.editable(true)
 
 ## Adding elements
 
-Find elements on [webcomponents.org](https://www.webcomponents.org/collection/simplaio/simpla-elements). Every component has its own documentation, demos, and API references.
+Find elements on [webcomponents.org](https://www.webcomponents.org/collection/simplajs/simpla-elements). Every component has its own documentation, demos, and API references.
 
 Install them via [Bower](http://bower.io/) (NPM support upcoming)
 

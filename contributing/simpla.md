@@ -6,37 +6,37 @@ There are lots of ways you can contribute to Simpla, from reporting issues, to c
 
 ## How Simpla is organized
 
-Simpla is a large project, spread across many repositories. All official code is on Github under the [simplaio](https://github.com/simplaio) organization.
+Simpla is a large project, spread across many repositories. All official code is on Github under the [simplajs](https://github.com/simplajs) organization.
 
 ### Core library
 
-**Location:** [simplaio/simpla](https://github.com/simplaio/simpla)
+**Location:** [simplajs/simpla](https://github.com/simplajs/simpla)
 
 Simpla itself is a tiny (~4kb) JavaScript library that provides a low-level API for components and deveopers to set, get, and manipulate JSON data based on a standard [content model](/guides/content-model.html). It also provides several [adapters](/guides/adapters.html) for content storage (eg: Github) and authentication (eg: NetlifyIdentity), as well as a standard interface for developers to create their own custom adapters.
 
 ### Official elements
 
-**Location:** seperate repos under simplaio, eg: [simplaio/simpla-text](https://github.com/simplaio/simpla-text)
+**Location:** seperate repos under simplajs, eg: [simplajs/simpla-text](https://github.com/simplajs/simpla-text)
 
-All official Simpla elements (eg: simpla-text, simpla-img) live in separate Github repos under the simplaio organisation. Each one has its own documentation, test suites, demos, issue trackers, etc.
+All official Simpla elements (eg: simpla-text, simpla-img) live in separate Github repos under the simplajs organisation. Each one has its own documentation, test suites, demos, issue trackers, etc.
 
 ### Element catalogue
 
-**Location:** [simplaio/simpla-elements](https://github.com/simplaio/simpla-elements)
+**Location:** [simplajs/simpla-elements](https://github.com/simplajs/simpla-elements)
 
-This is simply a listing of elements available for Simpla, both official and from the community. It doesn't hold any element code. You can submit your own elements to the catalogue by submitting a PR, after which they will show up in the collection on [webcomponents.org](https://www.webcomponents.org/collection/simplaio/simpla-elements).
+This is simply a listing of elements available for Simpla, both official and from the community. It doesn't hold any element code. You can submit your own elements to the catalogue by submitting a PR, after which they will show up in the collection on [webcomponents.org](https://www.webcomponents.org/collection/simplajs/simpla-elements).
 
 ### Documentation
 
-**Location:** [simplaio/docs](https://github.com/simplaio/docs)
+**Location:** [simplajs/docs](https://github.com/simplajs/docs)
 
 The documentation you're reading now is also open-source, see the [docs contributing guide](/contributing/docs.html) for more.
 
 ### Website
 
-**Location:** [simplaio/simpla.io](https://github.com/simplaio/simpla.io)
+**Location:** [simplajs/simplajs.org](https://github.com/simplajs/simplajs.org)
 
-Simpla's project website ([simpla.io](https://www.simpla.io)) is also open-source, and we happily welcome PRs and issues on it.
+Simpla's project website ([simplajs.org](https://www.simplajs.org)) is also open-source, and we happily welcome PRs and issues on it.
 
 ## Reporting issues
 
@@ -44,7 +44,7 @@ The easiest way to contribute to Simpla is by reporting issues on Github. Issues
 
 When creating an issue, especially if it's a bug, try to be as detailed as possible. Include the exact steps required to reproduce the problem, what browser(s) you experienced it on, any errors that were in your console, etc. There are issue templates on Github to help with this.
 
-If you suspect the issue is part of the core library, submit it against [simplaio/simpla](https://github.com/simplaio/simpla). If you think it's due to an element, submit it against the relevant element repository. If you're not sure what's causing it just make your best guess. We can always move an issue if it proves to be coming from another part of the ecosystem.
+If you suspect the issue is part of the core library, submit it against [simplajs/simpla](https://github.com/simplajs/simpla). If you think it's due to an element, submit it against the relevant element repository. If you're not sure what's causing it just make your best guess. We can always move an issue if it proves to be coming from another part of the ecosystem.
 
 ## Submitting pull requests
 

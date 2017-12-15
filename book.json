@@ -10,7 +10,7 @@
   "pluginsConfig": {
     "edit-link": {
       "placement": "left",
-      "base": "https://github.com/simplaio/docs/edit/master",
+      "base": "https://github.com/simplajs/docs/edit/master",
       "label": "Edit This Page"
     }
   },
