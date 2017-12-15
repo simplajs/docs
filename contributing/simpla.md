@@ -74,5 +74,3 @@ Some ideas:
 - Share the project with a colleague
 - Write a short post on Medium about how you've used Simpla in your own projects
 - Share the code for a project you've built with the community
-
-We also have an open Slack group where you can chat with the core team and the wider Simpla community here: [slack.simpla.io](https://slack.simpla.io)
