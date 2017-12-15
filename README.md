@@ -1,6 +1,6 @@
 ![Simpla logo](/assets/img/logo.svg)
 
-[Simpla](https://www.simpla.io) is an open, modular content framework for frontend developers. Build dynamic content in HTML, edit it inline, and use Github as a backend.
+[Simpla](https://www.simplajs.org) is an open, modular content framework for frontend developers. Build dynamic content in HTML, edit it inline, and use Github as a backend.
 
 ### [Guides](./guides)
 
@@ -10,9 +10,9 @@ Get familiar with Simpla and learn everything from setting up your first project
 
 Full technical references for Simpla's core library and the official bundled adapters
 
-### [Elements](https://www.webcomponents.org/collection/simplaio/simpla-elements)
+### [Elements](https://www.webcomponents.org/collection/simplajs/simpla-elements)
 
-Every Simpla element has its own documentation, demos, and references on [webcomponents.org](https://www.webcomponents.org/collection/simplaio/simpla-elements)
+Every Simpla element has its own documentation, demos, and references on [webcomponents.org](https://www.webcomponents.org/collection/simplajs/simpla-elements)
 
 ### [Contributing](./contributing)
 
