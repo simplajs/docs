@@ -5,7 +5,7 @@
   "main": "",
   "author": {
     "name": "Simpla contributors",
-    "url": "https://www.simpla.io"
+    "url": "https://www.simplajs.org"
   },
   "license": "MIT",
   "keywords": [
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/simplaio/docs/issues"
   },
-  "homepage": "https://docs.simpla.io",
+  "homepage": "https://docs.simplajs.org",
   "scripts": {
     "build": "gitbook build",
     "serve": "gitbook serve --port 3000"
